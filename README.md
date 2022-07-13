@@ -4,13 +4,11 @@
 
 To register for a chance to win a prize, deploy your Python function with Cloud Functions. This should only take a few minutes...
 
-## Account
-
 In all cases, make sure to sign in with the provided account. The account on your Cloud Challenge card has the following format:
 - devstar7xxx@gcplab.me
 
 1. Open this tutorial in Cloud Shell
-   - [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FPicardParis%2Fep22&cloudshell_tutorial=README.md)
+   - [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FPicardParis%2Fep22&cloudshell_tutorial=README.md)
 2. Check that you're correctly signed in: 
    ```sh
    echo $USER
