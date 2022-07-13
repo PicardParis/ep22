@@ -2,15 +2,29 @@
 
 ## Welcome
 
-To register for a chance to win a prize, deploy your Python function with Cloud Functions. This should only take a few minutes.
+To register for a chance to win a prize, deploy your Python function with Cloud Functions. This should only take a few minutes...
 
-1. Launch Cloud Shell
-   - [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FPicardParis%2Fep22&cloudshell_open_in_editor=src%2Fmain.py&cloudshell_tutorial=README.md)
-2. Make sure you log in with the provided account. The account on your Cloud Challenge card has the following format:
-   - devstar7xxx@gcplab.me
+## Account
 
-Note: For all commands to be launched in Cloud Shell, click the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon>
- button and the command will automatically be pasted.
+In all cases, make sure to sign in with the provided account. The account on your Cloud Challenge card has the following format:
+- devstar7xxx@gcplab.me
+
+1. Open this tutorial in Cloud Shell
+   - [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FPicardParis%2Fep22&cloudshell_tutorial=README.md)
+2. Check that you're correctly signed in: 
+   ```sh
+   echo $USER
+   ```
+3. If you get a user of the following format, you're all good and you can move to the next step:
+   ```terminal
+   devstar7xxx
+   ```
+4. Otherwise, sign out from your existing account, manually sign in with the provided account, and launch the following command from Cloud Shell:
+   ```sh
+   cloudshell_open --repo_url "https://github.com/PicardParis/ep22" --tutorial "README.md" --force_new_clone
+   ```
+
+Note: For all commands to be launched in Cloud Shell, click the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> button and the command will automatically be pasted.
 
 ## Project
 
