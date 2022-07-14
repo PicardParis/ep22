@@ -150,9 +150,11 @@ This is now the last step before you're registered for the raffle.
 
 <walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
 
-Don't forget to come to our booth for the daily raffles.
+- Don't forget to come to our booth for the daily raffles.
 - Raffles take place during the afternoon break at **15:15**.
-- If you're drawn and not there, we'll have to relaunch the wheel.
+- If your name is drawn but you're not there, we'll have to relaunch the wheel.
+- Your Google Cloud account is valid during the conference days, benefit from it to complete codelabs on your technologies of interest:
+  - https://codelabs.developers.google.com/?category=cloud
 
 And feel free to come to our booth anytime to chat about Google Cloud, Python, or anything.
 
