@@ -142,16 +142,16 @@ This is now the last step before you're registered for the raffle.
    ```terminal
    You're registered!
    ```
-4. If you get a different message, this should be self explanatory. You can then fix, redeploy, and retry. If you're stuck, feel free to chat with us at the booth. 
+4. If you get a different message, this should be self explanatory. You can then fix, redeploy, and retry. If you're stuck, feel free to chat with us at the booth.
 
-🎉 You're registered to participate in the raffle...
+🎉 You're now registered to participate in the daily raffles...
 
 ## More
 
 <walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
 
-Don't forget to come to our booth during the afternoon break.
-- The raffle will take place at **15:15**.
+Don't forget to come to our booth for the daily raffles.
+- Raffles take place during the afternoon break at **15:15**.
 - If you're drawn and not there, we'll have to relaunch the wheel.
 
 And feel free to come to our booth anytime to chat about Google Cloud, Python, or anything.
