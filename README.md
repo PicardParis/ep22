@@ -1,5 +1,8 @@
 # Cloud Challenge
 
+> **Warning**
+> This Cloud Challenge took place during EuroPython 2022 and is now closed.
+
 ## Welcome
 
 To register for a chance to win a prize, deploy your Python function with Cloud Functions. This should only take a few minutes...
